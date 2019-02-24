@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#212121"
+    android:layout_weight="9">
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Deadpool Artist: Mattahan "
+        android:textColor="#ffffff"
+        android:drawableLeft="@drawable/qww"
+        android:layout_weight="1"
+        android:background="#212121"
+        />
+    <Button
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pokemons-Roundicons Freebies "
+        android:textColor="#ffffff"
+        android:drawableLeft="@drawable/as"
+        android:layout_weight="1"
+        android:background="#212121"
+        />
+    <Button
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Simpson- Jonathan L. Rey"
+        android:textColor="#ffffff"
+        android:drawableLeft="@drawable/sss"
+        android:layout_weight="1"
+        android:background="#212121"
+        />
+    <Button
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Angry Birds: femfoyou
+Url:http://femfoyou.deviantart.com "
+        android:textColor="#ffffff"
+        android:drawableLeft="@drawable/sjd"
+        android:layout_weight="1"
+        android:background="#212121"
+        />
+    <Button
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Super hero Pics-freepik.com and Smashicons "
+        android:textColor="#ffffff"
+        android:drawableLeft="@drawable/ssa"
+        android:layout_weight="1"
+        android:background="#212121"
+        />
+    <Button
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LooneyTunes Artist: Sykonist
+URL-http://sykonist.deviantart.com/"
+        android:textColor="#ffffff"
+        android:drawableLeft="@drawable/asss"
+        android:layout_weight="1"
+        android:background="#212121"
+        />
+    <Button
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Haunted houses-Icon Pond"
+        android:textColor="#ffffff"
+        android:drawableLeft="@drawable/sds"
+        android:layout_weight="1"
+        android:background="#212121"
+        />
+    <Button
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Artist:Michael James "
+        android:textColor="#ffffff"
+        android:drawableLeft="@drawable/asw"
+        android:layout_weight="1"
+        android:background="#212121"
+
+        />
+    <Button
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Artist:Diana Maria Hernandez "
+        android:textColor="#ffffff"
+        android:drawableLeft="@drawable/jhio"
+        android:layout_weight="1"
+        android:background="#212121"
+
+        />
+
+
+</LinearLayout>

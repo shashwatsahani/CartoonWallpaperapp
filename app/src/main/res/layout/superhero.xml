@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ragnar.useless.hallo"
+
+    android:background="#000000"
+    android:id="@+id/l1">
+    <HorizontalScrollView
+        android:layout_marginTop="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scrollbars="none"
+        >
+
+        <LinearLayout
+            android:id="@+id/lhz"
+            android:layout_width="50dp"
+            android:layout_height="100dp"
+
+            android:orientation="horizontal"></LinearLayout>
+
+
+    </HorizontalScrollView>
+
+
+    <ImageView
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_width="180dp"
+        android:id="@+id/img"
+        android:layout_height="180dp"
+        android:src="@drawable/z9"/>
+    <io.github.yavski.fabspeeddial.FabSpeedDial
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="bottom|end"
+        app:fabGravity="bottom_end"
+        app:fabMenu="@menu/main_menu"
+        android:id="@+id/fabspeed"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        app:miniFabDrawableTint="?attr/colorPrimaryDark"
+        app:miniFabTitleTextColor="?attr/colorPrimaryDark"
+        >
+    </io.github.yavski.fabspeeddial.FabSpeedDial>
+
+
+
+
+
+
+
+</RelativeLayout>

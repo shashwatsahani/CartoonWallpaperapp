@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+     <item android:id="@+id/db1" android:title="Dashboard" android:icon="@drawable/smartphone" ></item>
+    <item android:id="@+id/db2" android:title="Pokemon go" android:icon="@drawable/player"></item>
+    <item android:id="@+id/db3" android:title="The Simpsons" android:icon="@drawable/j"></item>
+    <item android:id="@+id/db6" android:title="Angry Birds" android:icon="@drawable/pajarito7"></item>
+    <item android:id="@+id/db7" android:title="Halloween" android:icon="@drawable/h8"></item>
+    <item android:id="@+id/db8" android:title="Looney Tunes" android:icon="@drawable/l16"></item>
+    <item android:id="@+id/db9" android:title="Superheroes" android:icon="@drawable/z2"></item>
+    <item android:id="@+id/db10" android:title="Credits" android:icon="@drawable/heart"></item>
+</menu>
